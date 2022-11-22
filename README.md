@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <title>賴資敏的個人網站</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -473,4 +471,3 @@ function toggleFunction() {
 </script>
 
 </body>
-</html>
