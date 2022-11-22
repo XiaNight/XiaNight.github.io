@@ -26,6 +26,7 @@ body, html {
 .bgimg-1 {
   background-image: url('images/DSC00534.jpg');
   min-height: 100%;
+  min-height: 800px;
 }
 
 /* Second image (Portfolio) */
