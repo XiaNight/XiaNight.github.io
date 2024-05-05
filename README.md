@@ -135,7 +135,7 @@ body, html {
         <i class="fa fa-search NavBar_Item">Search</i>
       </a>
       <a href="https://github.com/XiaNight" class="w3-bar-item w3-hide-small w3-right NavBar_Item Neumorphism TabletHide">
-        <i class="fa fa-github NavBar_Item">Github</i>
+        <i class="fa fa-github NavBar_Item">GitHub</i>
       </a>
       <a href="download.php?path=賴資敏的簡歷.pdf" class="w3-bar-item w3-hide-small w3-right NavBar_Item Neumorphism TabletHide">
         <i class="fa fa-file NavBar_Item">下載簡歷</i>
@@ -170,10 +170,10 @@ body, html {
   <h3 class="w3-center Neumorphism">ABOUT ME</h3>
   <p class="w3-center w3-text-grey Neumorphism"><em>寫程式是我的興趣，我的休閒娛樂</em></p>
   <p class="w3-text-black Neumorphism">&emsp;&emsp;
-      我的興趣是<b>寫程式</b>，學習<b>新技術</b>，通常都是在網路上自己查資料，找YouTube教學，我非常喜歡<b>自學</b>，因為我覺的我能掌握我要學習的技術，而且網路上的資訊一直都在更新，不會與社會脫節。除了寫程式，我還喜歡去學習其他領域的技術，像是<b>3D繪圖</b>，<b>數位材質製作</b>，<b>木工</b>等，再結合高中時在<b>電子科</b>中學到的技術，像是<b>電子電路</b>，<b>邏輯設計</b>，<b>焊接</b>等，<b>軟體硬體</b>都有<b>實做</b>能力，這些能力的結合讓我在<b>專題製作</b>時作為非常<b>重要</b>的角色。不管是高中還是大學的作業，我都會以我能達到的<b>最高水準</b>去製作，<b>編寫程式</b>，盡量讓教授能看到我的能力，同時也能學習<b>新的能力</b>，<b>累積經驗</b>，找出我不擅長的部份去<b>加強</b>。
+      我的興趣是<b>寫程式</b>，學習<b>新技術</b>，通常都是在網路上自己查資料，找YouTube教學，我非常喜歡<b>自學</b>，因為我覺得我能掌握我要學習的技術，而且網路上的資訊一直都在更新，不會與社會脫節。除了寫程式，我還喜歡去學習其他領域的技術，像是<b>3D繪圖</b>，<b>數位材質製作</b>，<b>木工</b>等，再結合高中時在<b>電子科</b>中學到的技術，像是<b>電子電路</b>，<b>邏輯設計</b>，<b>焊接</b>等，<b>軟體硬體</b>都有<b>實作</b>能力，這些能力的結合讓我在<b>專題製作</b>時作為非常<b>重要</b>的角色。不管是高中還是大學的作業，我都會以我能達到的<b>最高水準</b>去製作，<b>編寫程式</b>，盡量讓教授能看到我的能力，同時也能學習<b>新的能力</b>，<b>累積經驗</b>，找出我不擅長的部份去<b>加強</b>。
   </p>
   <p class="w3-text-black Neumorphism">&emsp;&emsp;
-    我從高二開始寫<b>Unity</b>，通常會在Unity上進行<b>創作小遊戲</b>，在寫遊戲的同時，<b>增進</b>自己寫程式的能力。除了<b>自學</b>，我非常樂把我在網路上蒐集的資料與<b>知識分享</b>給大家，讓我覺得我可以開始做<b>Unity</b>的<b>入門教學</b>，希望大家可以對<b>遊戲產業</b>有<b>興趣</b>，並更加認識每天都在玩的遊戲是<b>如何製作</b>出來的。
+    我從高二開始寫<b>Unity</b>，通常會在Unity上進行<b>創作小遊戲</b>，在寫遊戲的同時，增進自己寫程式的能力。除了<b>自學</b>，我非常樂把我在網路上蒐集的資料與<b>知識分享</b>給大家，讓我覺得我可以開始做Unity的<b>入門教學</b>，希望大家可以對<b>遊戲產業</b>有<b>興趣</b>，並更加認識每天都在玩的遊戲是<b>如何製作</b>出來的。
   </p>
   
   <div class="w3-row">
